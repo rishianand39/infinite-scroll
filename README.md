@@ -5,14 +5,11 @@ It will load more data as you moved to the bottom after scrolling the page.
 It will show a loading indicatore while data is loading.😌
 Once data loading is complete indicator is be invisible🤙
 
-LIKED?? give a star⭐
-
 
 ## Demo🚀
 
-
 https://infinite-scroll-dusky.vercel.app/
-
+LIKED?? please give a star⭐
 
 ## Screenshots
 
@@ -43,8 +40,6 @@ Install my-project with npm
   npm install or npm i
   npm start
 ```
-
-    
 
 
 ## Tech Stack
